@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Pereira Jorquera</h1>
-<h3 align="center">I'm a Nurse, MSc Public Heath, Accreditor in Health certified by the Superintendency of Health and studen a program "Full-Stack Developer " in Academy 4Geeks Chile.</h3>
+<h3 align="center">I'm a Nurse, MSc Public Heath, Accreditor in Health certified by the Superintendency of Health and Full-Stack Developer Junior.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiopereiraj&label=Profile%20views&color=0e75b6&style=flat" alt="sergiopereiraj" /> </p>
 
