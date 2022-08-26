@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript (DOM and React), SQL and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sergiopereiraj?tab=repositories](https://github.com/sergiopereiraj?tab=repositories)
+- 👨‍💻 All my projects are available at [https://github.com/sergiopereiraj?tab=repositories](https://github.com/sergiopereiraj?tab=repositories)
 
 - 📫 How to reach me **sergiopereira.jorquera@gmail.com**
 
