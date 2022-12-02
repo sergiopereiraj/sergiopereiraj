@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Pereira Jorquera</h1>
-<h3 align="center">I'm a Nurse, MSc Public Heath, Accreditor in Health certified by the Superintendency of Health and Full-Stack Developer Junior.</h3>
+<h3 align="center">I'm a Nurse, MSc Public Heath, Accreditor in Health certified by the Superintendency of Health and Full-Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiopereiraj&label=Profile%20views&color=0e75b6&style=flat" alt="sergiopereiraj" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript (DOM and React), SQL and Python**
 
-- 👨‍💻 All my projects are available at [https://github.com/sergiopereiraj?tab=repositories](https://github.com/sergiopereiraj?tab=repositories)
+- 👨‍💻 All my projects are available at [https://devpereira.com](https://devpereira.com)
 
 - 📫 How to reach me **sergiopereira.jorquera@gmail.com**
 
