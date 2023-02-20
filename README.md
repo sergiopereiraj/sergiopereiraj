@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Pereira Jorquera</h1>
-<h3 align="center">Full-Stack Developer, National Accreditation System Evaluator, MSc Public Health Nurse and passionate for playing sports</h3>
+<h3 align="center">Full-Stack Developer, National Accreditation System Evaluator, MSc Public Health, Nurse and passionate for playing sports</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiopereiraj&label=Profile%20views&color=0e75b6&style=flat" alt="sergiopereiraj" /> </p>
 
